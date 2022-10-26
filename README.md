@@ -1,10 +1,3 @@
-### OPERATING SYSTEM
-### PROJECT-2 USER PROGRAMS
-### GROUP - 25
-\
-Mann Jain <mann.jain@iitgn.ac.in>
-
-Sakshi Jain <sakshi.jain@iitgn.ac.in>
 
                                                   ARGUMENT PASSING
                                                   ================
